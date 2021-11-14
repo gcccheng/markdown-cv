@@ -3,24 +3,42 @@ layout: cv
 title: Gang Cheng's CV
 ---
 # Gang Cheng
+
 System Operation Engineer
 
 <div id="webaddress">
 <a href="https://www.med.uio.no/ncmm/personer/adm/gangch/index.html">My UiO page</a>
 </div>
 
+## Summary
+
+Main skills reside in Red Hat Linux administration and have extened to the technologies around it listed below. Proved skills at communicating with coworkers and clients at varying levels of technical expertise. Excellent trouble-shooting and documentation skills. Rapidly self-orienting in new environments and a quick learner.
+
+
+## Specialized in
+
+Linux system operation
 
 ## Currently
 
-System Engineer at UiO
+**System Engineer at UiO**
 
-* server drift
+Be responsible to deliver a reliable scientific computing infrastructure to researchers at Centre for Molecular Medicine Norway, University of Oslo. Main tasks:
 
-* install
+* Install, configure and maintain rhel server for a variety of services including computing, virtulization, database, web, Samba, NFS, inventory...
 
-### Specialized in
+* Install and maitain complex software pipelines that contain an increasing number of software dependencies to function properly.
 
-Linux system operation
+*  Maitain DNS, DHCP and FirewallD services for internal lab network.
+
+* Daily admin work including account management, storage management, ACLs, security and problem troubleshooting.
+
+* Purchase hardware, plan/design infrastructure, deploy new technology to accommodate researching needs.
+
+
+
+
+
 
 
 ## Education
@@ -69,7 +87,7 @@ Basic cryptography and SSH remote logins
 
 ### Experienced Skills
 
-Red Hat, KVM, Dell Server seriles, <a href="https://www.proxmox.com/en/">Proxmox </a>, NFS, SAMBA, DNS, DHCP, Apache HTTPD, LDAP, Maria DB, Zabbix, Perpl, Bash, Ansible...
+Red Hat, Windows Server, SCCM, KVM, Dell PowerEdge series, <a href="https://www.proxmox.com/en/">Proxmox </a>, NFS, SAMBA, DNS, DHCP, Apache HTTPD, LDAP, Maria DB, Zabbix, Perpl, Bash, Ansible...
 
 
 ### Exposed Skills
