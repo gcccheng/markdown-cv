@@ -3,7 +3,7 @@ layout: cv
 title: Gang Cheng's CV
 ---
 # Gang Cheng
-System Administrator, System Operation Engineer
+System Operation Engineer
 
 <div id="webaddress">
 <a href="https://www.med.uio.no/ncmm/personer/adm/gangch/index.html">My UiO page</a>
@@ -23,7 +23,7 @@ Linux system operation, administration, virtulization
 ## Education
 
 `2010-2012`
-__University of Oslo: Master in Network and System Administration._
+University of Oslo: Master in Network and System Administration._
 
 
 ## Certificate 
