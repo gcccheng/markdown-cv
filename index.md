@@ -14,10 +14,13 @@ System Operation Engineer
 
 System Engineer at UiO
 
+*** server drift
+
+*** install
+
 ### Specialized in
 
-Linux system operation, administration, virtulization
-
+Linux system operation
 
 
 ## Education
