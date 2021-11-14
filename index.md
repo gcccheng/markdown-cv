@@ -14,9 +14,9 @@ System Operation Engineer
 
 System Engineer at UiO
 
-*** server drift
+* server drift
 
-*** install
+* install
 
 ### Specialized in
 
