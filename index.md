@@ -74,10 +74,12 @@ University of Oslo: Master in Network and System Administration
 
 
 ### Workshops
+  
+Deploy AWS EC2 instance with terraform
 
 <a href="https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/211103_github"> Version Control with Git </a>
 
-Basic cryptography and SSH remote logins 
+Cryptography and SSH remote logins 
   
 <a href="https://www.ub.uio.no/english/courses-events/courses/other/coderefinery/Python%20for%20Scientific%20Computing%20%28internediate%29"> Python for Scientific Computing</a>
 
