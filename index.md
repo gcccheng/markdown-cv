@@ -4,20 +4,30 @@ title: Gang Cheng's CV
 ---
 # Gang Cheng
 
-Senior Engineer
+Senior Infrastructure Engineer
 
 <div id="webaddress">
 <a href="https://www.med.uio.no/ncmm/personer/adm/gangch/index.html">My UiO page</a> | <a href="https://www.linkedin.com/in/gang-cheng-7170a521/">My Linkedin page</a>
 </div>
 
 ## Summary
-Main skills reside in Red Hat Linux administration and have extended to the technologies around it listed below. Proved skills at communicating with coworkers and clients at varying levels of technical expertise. Strong trouble-shooting and documentation skills. Rapidly self-orienting in new environments and a quick learner.
+Main skills reside in Red Hat Linux and have extended to the devops technologies as listed below. Proved skills at communicating with coworkers and clients at varying levels of technical expertise. Strong trouble-shooting and documentation skills. Rapidly self-orienting in new environments and a quick learner.
 ## Specialized in
 
-Linux Network and System Operation
+Red Hat products/technologies including Ansible, Satellite and Openshift.
 ## Currently
-`2012-Now`
-**Senior Engineer at NCMM UiO**
+`2020-Now`
+**Senior Infrastructure Engineer at Sopra Steria**
+
+Work on variety of projects with customers including:
+
+1. Integrate Red Hat Satellite with Ansible to automate the job of managing large scale of Red Hat systems and softwares deployments.
+2. Implement Microsoft Defender on Red Hat system and administrate Microsoft security portal.
+3. Manage large scale of Vmware virtual machines with Ansible.
+
+## Previous
+`2012-2020`
+**Senior Engineer at NCMM UiO **
 
 Be responsible to deliver a reliable scientific computing infrastructure to researchers at Centre for Molecular Medicine Norway, University of Oslo. Main tasks:
 
@@ -35,10 +45,13 @@ Be responsible to deliver a reliable scientific computing infrastructure to rese
 `2010-2012`
 University of Oslo: Master in Network and System Administration
 ## Certificate
+<a href="https://www.credly.com/badges/8ceffa5b-d8ac-453b-8222-29d3f1e9d72e?source=linked_in_profile"> Red Hat® Certified Engineer (RHCE®)</a>
+
+<a href="https://www.redhat.com/en/services/certification/red-hat-certified-specialist-in-containers-and-kubernetes"> Red Hat Certified Specialist in Containers and Kubernetes</a>
+
 <a href="https://www.redhat.com/en/services/certification/rhcsa"> Red Hat 8 Certified System Administrator</a>
 
 
-<a href="https://www.redhat.com/en/services/certification/red-hat-certified-specialist-in-containers-and-kubernetes"> Red Hat Certified Specialist in Containers and Kubernetes</a>
 
 ## Courses
 <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/"> MicroSoft Azure Foundamentals </a>
@@ -91,8 +104,8 @@ Set up local directory service with Openldap
   
 Intrusion detection and monitoring with Snort and Munin
 
-## Experienced Skills
-Red Hat, Windows Server, Bash, Perl, SCCM, KVM, Dell PowerEdge series, <a href="https://www.proxmox.com/en/">Proxmox </a>, NFS, SAMBA, DNS, DHCP, Apache HTTPD, LDAP, Maria DB, Zabbix, Bash, Ansible...
+## Experienced Products and Skills
+Red Hat, Windows Server, Bash, Perl, SCCM, KVM, Dell PowerEdge series, <a href="https://www.proxmox.com/en/">Proxmox </a>, NFS, SAMBA, DNS, DHCP, Apache HTTPD, LDAP, Maria DB, Zabbix, Bash, Ansible, Microsoft Defender, Vmware vSphere...
 
 ## Exposure Skills
 
