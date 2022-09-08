@@ -22,11 +22,11 @@ Red Hat products/technologies including Ansible, Satellite and Openshift.
 
 Work on variety of projects with customers including:
 
-1. Integrate Red Hat Satellite with Ansible to automate the job of managing large scale of Red Hat systems and softwares deployments.
+1.Integrate Red Hat Satellite with Ansible to automate the job of managing large scale of Red Hat systems and softwares deployments.
 
-2. Implement Microsoft Defender on Red Hat system and administrate Microsoft security portal.
+2.Implement Microsoft Defender on Red Hat system and administrate Microsoft security portal.
 
-3. Manage large scale of Vmware virtual machines with Ansible.
+3.Manage large scale of Vmware virtual machines with Ansible.
 
 ## Previous
 `2012-2020`
