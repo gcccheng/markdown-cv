@@ -30,7 +30,7 @@ Work on variety of projects with customers including:
 
 ## Previous
 `2012-2020`
-**Senior Engineer at NCMM UiO **
+**Senior Engineer at NCMM UiO**
 
 Be responsible to deliver a reliable scientific computing infrastructure to researchers at Centre for Molecular Medicine Norway, University of Oslo. Main tasks:
 
