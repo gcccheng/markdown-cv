@@ -11,13 +11,13 @@ Red Hat Certified Architect, Senior Infrastructure Engineer
 </div>
 
 ## Summary
-Gang Cheng is a dynamic and fast learner. He has obtained 7 certifications in 2 years, showcasing his commitment to continuous learning and professional development. His exceptional expertise was recognized when he received the honor of being named the Red Hat Certified Professional of the Year 2024. His full interview with Red Hat can be viewed on Red Hat website <a href="https://www.redhat.com/en/services/certification/rhcp/rhcp-of-the-year">here</a>.
+Gang Cheng is a dynamic and fast learner. He has obtained 7 certifications in 2 years, showcasing his commitment to continuous learning and professional development. His exceptional expertise was recognized when he received the honor of being named the Red Hat Certified Professional of the Year 2024. His full interview with Red Hat can be viewed on the Red Hat website <a href="https://www.redhat.com/en/services/certification/rhcp/rhcp-of-the-year">here</a>.
 
 With over a decade of working experience in large-scale mixed IT infrastructure in the public sector, Gang has demonstrated strong expertise in managing complex infrastructure environments. His extensive experience with Red Hat products and technologies underscores his strong proficiency. He leverages automation tools like Ansible to enhance operational efficiency and ensure system reliability. 
 
-In addition to his expertise in Red Hat, Gang has expanded his skills to include a wide range of DevOps, Cloud and Site Reliability technologies. He has gained valuable experience in monitoring, logging, scripting, automation, version control, and CI/CD through both professional work and self-learning projects.
+In addition to his expertise in Red Hat, Gang has expanded his skills to include a wide range of DevOps, Cloud, and Site Reliability technologies. He has gained valuable experience in monitoring, logging, scripting, automation, version control, and CI/CD through both professional work and self-learning projects.
 
-Previously, Gang has been part of the managing role in a local data center for scientific computing, providing critical infrastructure services to researchers and demonstrating familiarity with the associated technologies. 
+Previously, Gang had a managing role in a local data center for scientific computing, providing critical infrastructure services to researchers and demonstrating familiarity with the associated technologies. 
 
 Through years of working experience, Gang has effectively collaborated with researchers, application developers, and IT professionals alike, demonstrating his ability to conduct effective communication within organizations.
 
@@ -31,46 +31,30 @@ Red Hat Linux, Red Hat Satellite, Ansible, Red Hat Openshift, Red Hat Automation
 During past years, Gang has contributed to a variety of projects for clients, including:
  
 `project`
+**Automate upgrading rhel7 to rhel8 workflow**
+
+The project involves upgrading 340 production RHEL7 machines to RHEL8 for a client. This large-scale upgrade is essential to enhance system security, performance, and supportability. The upgrade process is primarily automated using Ansible, and it requires careful planning to minimize downtime and ensure business continuity. By automating the upgrading workflow, Gang has increased efficiency, reduced human error, and ensured consistency across all machines. 
+
+`project`
 **Automate Infrastructure Workflow with Ansible Automation Platform(AAP)**
 
-Managing a modern infrastructure can be a challenging task, and implementing automation can greatly reduce manual work. Gang participated in setting up Ansible Automation Platform(AAP) and integrating infrastructure workflow into AAP. 
-  1. Installing Ansible Automation Platform and testing functionalities.
-
-  2. Communicating with various parties within infrastructure such as the developing team, database team, and security team to design workflow that can reduce errors, improve efficiency and enhance performance.
+Managing a modern infrastructure can be challenging, and implementing automation can greatly reduce manual work. In this project, Gang participated in setting up Ansible Automation Platform(AAP) and integrating infrastructure workflow into AAP. The project has greatly reduced manual work, increased efficiency and enhanced security.
 
 `project`
 **Deploy Red Hat 9 to production infrastructure**
 
-Gang was responsible for deploying Red Hat 9 to the production environment, utilizing Ansible for automation. His tasks included:
+Gang was responsible for deploying Red Hat 9 to the production environment, utilizing Ansible for automation. He has created a customized version of the Red Hat image template for the VMWare environment, configured system settings, and integrated into Windows AD.
 
-
-  1. Creating a customized Red Hat image and a template for a VMware vSphere virtual machine
-  
-  3. Configuring and deploying RHEL9, including system configuration, subscription management, network configuration, and application integration
-  
-  5. Integrating the system with Windows Active Directory
   
 `project`
-**Automate patching process for large-scale of Red Hat machines**
+**Automate patching process for large-scale Red Hat machines**
 
-Gang simplified and improved the existing patching procedure, utilizing Ansible and Satellite. His tasks included:
-
-  1. Divide existing machines into different environments.
-
-  2. Prioritizing machines based on criticality.
-
-  3. Designing Ansible workflow to automate the process of patching.
+Gang simplified and improved the existing patching procedure, utilizing Ansible and Satellite. His tasks included dividing existing machines into different environments, prioritizing machines based on criticality, and designing Ansible workflow to automate the process of patching.
 
 `project`
 **Deploy security application to infrastructure**
 
-Gang took full responsibility for deploying a cloud-based security application to the entire infrastructure. His tasks included:
-
-  1. Troubleshooting installing errors and performance issues.
-
-  2. Customize security rules for each machine to ensure functionality.
-
-  3. Communicating between various parties including application provider, license provider, network group, and security group.
+Gang took full responsibility for deploying a cloud-based security application to the entire infrastructure. His tasks included troubleshooting installing errors and performance issues, customizing security rules for each machine to ensure functionality, and communicating between various parties including the application provider, license provider, network group, and security group.
 
 
 `2012-2022`
@@ -156,15 +140,21 @@ Cryptography and SSH remote logins
   
 <a href="https://www.uio.no/tjenester/it/forskning/kompetansehuber/uio-ai-hub-node-project/it-resources/"> AI at UiO </a>
 
-## Projects
+## Other Projects
 
-Build Proxmox virtual infrastructure for complex IT system  
+Test AWS RAG and Fine-tuned AI
 
+Build multi-model Generative AI experiences on Azure
+
+Configure CI/CD pipeline on Azure DevOps
+
+Build Proxmox virtual infrastructure for complex IT system
+  
 Build Foreman+Ansible+Smart Proxy and provision hosts for large infrastructure
   
-Intergrate Linux to Windows Domain
+Integrate Linux to Windows Domain
   
-Set up local directory service with Openldap
+Set up local directory service with OpenLDAP
   
 <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus"> Set up Windows Server Update Services for lab network </a>
 
@@ -172,20 +162,19 @@ Set up local directory service with Openldap
   
 Intrusion detection and monitoring with Snort and Munin
 
-## Experienced Skills
-Red Hat, Windows Server, Bash, Perl, SCCM, KVM, Dell PowerEdge series, <a href="https://www.proxmox.com/en/">Proxmox </a>, NFS, SAMBA, DNS, DHCP, Apache HTTPD, LDAP, Maria DB, Zabbix, Bash, Ansible...
-
+## Experienced tools or skills
+Red Hat Linux, Red Hat Satellite, Red Hat Openshift, Red Hat Ansible,  Atlassian Bitbucket, Atlassian Confluence, Atlassian Jira, Grafana, Prometheus, Dell PowerEdge, Windows Server 2016, Bash, Perl, Python
 ## Exposure Skills
-
-AWS, MS Azure, Docker Container, Openstack, Terraform, Vagrant
+AWS, MS Azure, Openstack, Terraform, Vagrant
   
 ## Hobbies 
-Blog writing, Skiing and hiking
+Blog writing, Skiing, and hiking
   
 ## Languages 
 English: Full Professional Working Proficiency
   
 Norwegian: Daily Conversation, Limited Professional Working Proficiency
+
 
   
 
